@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Sports, Global Issues**
 
-- 📫 How to reach me **41271212h@gapps.ntnnu.edu.tw**
+- 📫 How to reach me **41271212h@gapps.ntnu.edu.tw**
 
 - 🧑‍💻 Personal Website **https://41271212h.github.io/41271212h/**
 
