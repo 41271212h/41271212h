@@ -10,7 +10,20 @@
 - 🧑‍💻 Personal Website **https://41271212h.github.io/41271212h/**
 - [Click here to visit my website](https://41271212h.github.io/41271212h/)
 
-<h3 align="left">Connect with me:</h3>
+import React from 'react';
+
+function MyLink() {
+  return (
+    <div>
+      <a href="https://41271212h.github.io/41271212h/" target="_blank" rel="noopener noreferrer">
+        Click here to visit my website
+      </a>
+    </div>
+  );
+}
+
+export default MyLink;
+<h3 align="left">Connect with me anytime:</h3>
 <p align="left">
 </p>
 -->
