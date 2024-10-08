@@ -9,6 +9,21 @@
 
 - 🧑‍💻 Personal Website **https://41271212h.github.io/41271212h/**
 - [Click here to visit my website](https://41271212h.github.io/41271212h/)
+- import { useState } from 'react';
+
+export default function Counter() {
+  const [count, setCount] = useState(0);
+
+  function handleClick() {
+    setCount(count + 1);
+  }
+
+  return (
+    <button onClick={handleClick}>
+      You pressed me {count} times
+    </button>
+  );
+}
 
 <h3 align="left">Connect with me anytime:</h3>
 <p align="left">
