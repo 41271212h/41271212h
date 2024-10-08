@@ -11,18 +11,17 @@
 - [Click here to visit my website](https://41271212h.github.io/41271212h/)
 
 import React from 'react';
+import MyLink from './MyLink';
 
-function MyLink() {
+function App() {
   return (
-    <div>
-      <a href="https://41271212h.github.io/41271212h/" target="_blank" rel="noopener noreferrer">
-        Click here to visit my website
-      </a>
+    <div className="App">
+      <MyLink />
     </div>
   );
 }
 
-export default MyLink;
+export default App;
 <h3 align="left">Connect with me anytime:</h3>
 <p align="left">
 </p>
