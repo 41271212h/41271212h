@@ -1,0 +1,31 @@
+/* Center the content on the page */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    text-align: center;
+  }
+  
+  /* Make the message text larger */
+  .message {
+    font-size: 3rem; /* Adjust this for bigger/smaller text */
+    margin-bottom: 20px;
+  }
+  
+  /* Input field styling */
+  .input {
+    font-size: 1.5rem; /* Adjust font size for input */
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  /* Enter button styling */
+  .enter-button {
+    font-size: 1.5rem; /* Adjust font size for the button */
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
