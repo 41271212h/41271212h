@@ -8,9 +8,11 @@
 - 📫 How to reach me **41271212h@gapps.ntnu.edu.tw**
 
 - 🧑‍💻 Personal Website **https://41271212h.github.io/41271212h/**
-- [Click here to visit my website](https://41271212h.github.io/41271212h/)
+- Homework 1[Click here to visit my website](https://41271212h.github.io/41271212h/)
 
-- 😎 A Greeting App : https://github.com/41271212h/react.git
+- 😎 Homework 2:
+- 💬 Coding of A Greeting App: https://github.com/41271212h/react.git
+- 🎥 Introduction of A Greeting App:
 <h3 align="left">Connect with me anytime</h3>
 <p align="left">
 </p>
