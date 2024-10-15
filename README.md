@@ -10,7 +10,7 @@
 - 🧑‍💻 Personal Website **https://41271212h.github.io/41271212h/**
 - [Click here to visit my website](https://41271212h.github.io/41271212h/)
 
-- 😎 A Greeting App : react/src/GreetingApp.html
+- 😎 A Greeting App : [Go to localhost](http://localhost:3000)
 <h3 align="left">Connect with me anytime</h3>
 <p align="left">
 </p>
