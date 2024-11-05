@@ -17,6 +17,10 @@
 - 😬 Homework 3:
 - 💬 Introduction of A Fitness App: https://www.canva.com/design/DAGVV5eAOp4/9dNIxE1UQhxrt2hBy8SuDg/editutm_content=DAGVV5eAOp4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - 🎥 Video of Introduction: https://youtu.be/laWj7Ha0jKE
+
+- 🤔 Final Project:
+- Idea in Slide: https://www.canva.com/design/DAGViFSNqz8/PDFo3sFq4t209SkK5K7y_w/view?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- 
 <h3 align="left">Connect with me anytime</h3>
 <p align="left">
 </p>
