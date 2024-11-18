@@ -20,6 +20,7 @@
 
 - 🤔 Final Project:
 - Idea in Slide: https://www.canva.com/design/DAGViFSNqz8/PDFo3sFq4t209SkK5K7y_w/view?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- First Introduction Video: https://youtu.be/5SIjZ7eLq1o
 - 
 <h3 align="left">Connect with me anytime</h3>
 <p align="left">
