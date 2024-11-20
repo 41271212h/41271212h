@@ -15,8 +15,9 @@
 - 🎥 Introduction of A Greeting App: https://youtu.be/a2m8D4e8gAI
 
 - 😬 Homework 3:
-- 💬 Coding of A Fitness App: https://github.com/41271212h/homework3.git
-- 🎥 Video of Introduction: https://youtu.be/laWj7Ha0jKE
+- 💬 Coding of A Fitness App in React(With Coding): https://github.com/41271212h/react2.git
+- 🫥 In HTM(First Take): https://github.com/41271212h/homework3.git
+- 🎥 Video of Introduction(React Version): https://youtu.be/laWj7Ha0jKE
 
 - 🤔 Final Project:
 - Idea in Slide: https://www.canva.com/design/DAGViFSNqz8/PDFo3sFq4t209SkK5K7y_w/view?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link&utm_source=editor
