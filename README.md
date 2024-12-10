@@ -24,6 +24,7 @@
   
 - 🤔 Final Project:
 - 😽 Idea in Slide: https://www.canva.com/design/DAGViFSNqz8/PDFo3sFq4t209SkK5K7y_w/view?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- 💬 Coding of Group Final Project in React(With Coding): https://github.com/41271212h/final-group-app
 - 1️⃣ First Introduction Video: https://youtu.be/5SIjZ7eLq1o
 - 2️⃣ Second Introduction Video: https://youtu.be/Xln-5uTK-6g
 - 3️⃣ Third Introduction Video: https://youtu.be/59s4WuUC0Sk?si=rJuXRSRs_1bauoVm
