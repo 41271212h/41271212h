@@ -26,6 +26,8 @@
 - 😽 Idea in Slide: https://www.canva.com/design/DAGViFSNqz8/PDFo3sFq4t209SkK5K7y_w/view?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link&utm_source=editor
 - 1️⃣ First Introduction Video: https://youtu.be/5SIjZ7eLq1o
 - 2️⃣ Second Introduction Video: https://youtu.be/Xln-5uTK-6g
+- 3️⃣ Third Introduction Video: https://youtu.be/59s4WuUC0Sk?si=rJuXRSRs_1bauoVm
+- 🆗 Final Introduction Video: 
 - 
 <h3 align="left">Connect with me anytime</h3>
 <p align="left">
