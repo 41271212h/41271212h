@@ -17,7 +17,7 @@
 - 😬 Homework 3:
 - 💬 Coding of A Fitness App in React(With Coding): https://github.com/41271212h/react2.git
 - 🎥 Video of Introduction(Fuction in Slide): https://youtu.be/laWj7Ha0jKE
-- 🎥 Video of Introduction(App with React Version): https://youtu.be/laWj7Ha0jKE
+- 🎥 Video of Introduction(App with React Version): https://youtu.be/_7JAwYYDMsY
 
 - 😙 Homework 4:
 - 🔗 link for website by Render: https://react2-xlna.onrender.com
